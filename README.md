@@ -5,14 +5,14 @@ Ruganavahika aims to quickly book an ambulance from the partnered hospitals for 
 ## Preview of the app
 
 <p align="center">
-  <img src="screenshots/sign_in.png.png" width="270" height="550" />
+  <img src="screenshots/sign_in.png" width="270" height="550" />
 </p>
 <p align="center">
-  <img src="screenshots/home.png.png" width="270" height="550" />
+  <img src="screenshots/home.png" width="270" height="550" />
 </p>
 <p align="center">
-  <img src="screenshots/order.png.png" width="270" height="550" />
+  <img src="screenshots/order.png" width="270" height="550" />
 </p>
 <p align="center">
-  <img src="screenshots/profile.png.png" width="270" height="550" />
+  <img src="screenshots/profile.png" width="270" height="550" />
 </p>
