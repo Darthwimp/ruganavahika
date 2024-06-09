@@ -81,6 +81,9 @@ flutter:
     - assets/icons/shop_icons/
     - assets/icons/home_page_icons/
     - assets/icons/app_bar_icons/
+    - assets/images/medicineConcern/
+    - assets/images/medicineBrand/
+    - assets/images/medicineCategory/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

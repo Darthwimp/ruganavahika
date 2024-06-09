@@ -179,7 +179,7 @@ class SignIn extends StatelessWidget {
                           )
                         ],
                       ),
-                      Gap(15.h),
+                      Gap(8.h),
                       Row(
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [

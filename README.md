@@ -1,16 +1,18 @@
-# app_dev_client_project_1
+# Rugnavahika
 
-A new Flutter project.
+Ruganavahika aims to quickly book an ambulance from the partnered hospitals for injured people and animals, the app also aims to deliver medicines and book lab tests. In case it's an emergency, the app doesn't require the user to sign up, they can directly book an ambulance and the app will automatically send the user's location to the hospital
 
-## Getting Started
+## Preview of the app
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="screenshots/sign_in.png.png" width="270" height="550" />
+</p>
+<p align="center">
+  <img src="screenshots/home.png.png" width="270" height="550" />
+</p>
+<p align="center">
+  <img src="screenshots/order.png.png" width="270" height="550" />
+</p>
+<p align="center">
+  <img src="screenshots/profile.png.png" width="270" height="550" />
+</p>
